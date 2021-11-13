@@ -1,0 +1,28 @@
+#heading{
+    margin-top: 0;
+    background-color:cornflowerblue;
+    color:cyan; 
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px darkblue;
+}
+#notice{
+    margin-top: 5px;
+    font-size: 20px;
+    color:blue; 
+}
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(175, 212, 253);
+    font-family: cursive;
+    font-size: 15px;
+}
+.copy_right_footer:hover{
+    background-image: linear-gradient(#0a2a66,#060224);
+    text-shadow: 5px 5px 5px rgb(0, 119, 255);
+}
