@@ -26,3 +26,8 @@
     background-image: linear-gradient(#0a2a66,#060224);
     text-shadow: 5px 5px 5px rgb(0, 119, 255);
 }
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
